@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using VanisRazor_temp.Models;
+using VanisBookRazor_temp.Models;
 
-namespace VanisRazor_temp.Data
+namespace VanisBookRazor_temp.Data
 {
     public class ApplicationDbContext : DbContext
     {

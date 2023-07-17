@@ -4,7 +4,7 @@
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace VanisRazor_temp.Migrations
+namespace VanisBookRazor_temp.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryToDb : Migration

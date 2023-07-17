@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using VanisRazor_temp.Data;
-using VanisRazor_temp.Models;
+using VanisBookRazor_temp.Data;
+using VanisBookRazor_temp.Models;
 
-namespace VanisRazor_temp.Pages.Categories
+namespace VanisBookRazor_temp.Pages.Categories
 {
     public class CreateModel : PageModel
     {

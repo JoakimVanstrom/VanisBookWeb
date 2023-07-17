@@ -4,7 +4,7 @@
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace Vanis.DataAccess.Migrations
+namespace VanisBook.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryTableToDbAndSeedTable : Migration

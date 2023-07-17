@@ -1,4 +1,4 @@
-namespace Vanis.Models
+namespace VanisBook.Models
 {
     public class ErrorViewModel
     {

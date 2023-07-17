@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace VanisRazor_temp.Pages
+namespace VanisBookRazor_temp.Pages
 {
     public class IndexModel : PageModel
     {

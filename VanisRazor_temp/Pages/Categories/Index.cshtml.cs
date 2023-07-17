@@ -1,9 +1,9 @@
-using VanisRazor_temp.Data;
-using VanisRazor_temp.Models;
+using VanisBookRazor_temp.Data;
+using VanisBookRazor_temp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace VanisRazor_temp.Pages.Categories
+namespace VanisBookRazor_temp.Pages.Categories
 {
     public class IndexModel : PageModel
     {

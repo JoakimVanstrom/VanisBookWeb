@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using VanisRazor_temp.Data;
+using VanisBookRazor_temp.Data;
 
 #nullable disable
 
-namespace VanisRazor_temp.Migrations
+namespace VanisBookRazor_temp.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20230619132201_AddCategoryToDb")]
@@ -24,7 +24,7 @@ namespace VanisRazor_temp.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("VanisRazor_temp.Models.Category", b =>
+            modelBuilder.Entity("VanisBookRazor_temp.Models.Category", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

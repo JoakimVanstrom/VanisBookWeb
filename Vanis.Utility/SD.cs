@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Vanis.Utility
+namespace VanisBook.Utility
 {
     public class SD
     {

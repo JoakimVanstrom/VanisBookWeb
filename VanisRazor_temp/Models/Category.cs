@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
 
-namespace VanisRazor_temp.Models
+namespace VanisBookRazor_temp.Models
 {
     public class Category
     {
