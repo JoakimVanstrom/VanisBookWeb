@@ -5,8 +5,6 @@ VisualStudioVersion = 17.7.33808.371
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VanisBookWeb", "Vanis\VanisBookWeb.csproj", "{EB7EAB92-FC62-45D3-B146-873548200DF3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VanisRazor_temp", "VanisRazor_temp\VanisRazor_temp.csproj", "{4350B23D-FA77-4F29-AE70-537CED3C48F9}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VanisBook.DataAccess", "Vanis.DataAccess\VanisBook.DataAccess.csproj", "{64DE5D94-D4B0-4C75-85FE-E024AB081A82}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VanisBook.Models", "Vanis.Models\VanisBook.Models.csproj", "{E8773300-E904-4930-BD5F-66A9BD6970FA}"
@@ -23,10 +21,6 @@ Global
 		{EB7EAB92-FC62-45D3-B146-873548200DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB7EAB92-FC62-45D3-B146-873548200DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB7EAB92-FC62-45D3-B146-873548200DF3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4350B23D-FA77-4F29-AE70-537CED3C48F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4350B23D-FA77-4F29-AE70-537CED3C48F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4350B23D-FA77-4F29-AE70-537CED3C48F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4350B23D-FA77-4F29-AE70-537CED3C48F9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{64DE5D94-D4B0-4C75-85FE-E024AB081A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{64DE5D94-D4B0-4C75-85FE-E024AB081A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64DE5D94-D4B0-4C75-85FE-E024AB081A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
